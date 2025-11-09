@@ -1,6 +1,6 @@
 # Voice Emotion Recognition Using Hybrid Deep Learning
 
-#### This project implements a hybrid deep learning model capable of recognizing emotions in human speech by analyzing acoustic characteristics of audio signals. Manual classification of emotions in voice recordings is time-consuming, inconsistent, and lacks scalability. Our system automates this process by detecting emotions such as anger, happiness, sadness, fear, disgust, and neutral through audio analysis.
+#### This project implements a hybrid deep learning model capable of recognizing emotions in human speech by analyzing acoustic characteristics of audio signals. Manual classification of emotions in voice recordings is time-consuming, inconsistent, and lacks scalability. This system automates this process by detecting emotions such as anger, happiness, sadness, fear, disgust, and neutral through audio analysis.
 
 The emotion classifier uses a hybrid neural network architecture combining:
 
@@ -12,7 +12,7 @@ This combination allows the model to interpret both short-term spectral changes 
 
 ##Dataset
 
-We use the CREMA-D (Crowd-Sourced Emotional Multimodal Actors Dataset) for training and evaluation. CREMA-D is widely recognized for speech-based emotion recognition and provides diverse, high-quality audio samples.
+I used the CREMA-D (Crowd-Sourced Emotional Multimodal Actors Dataset) for training and evaluation. CREMA-D is widely recognized for speech-based emotion recognition and provides diverse, high-quality audio samples.
 
 ###Key Features of CREMA-D:
 
