@@ -25,3 +25,6 @@ Speaker Variation: Voices from actors of varying age, gender, and ethnicity, aid
 Intensity Levels: Low and High intensity for each emotion, capturing subtle variations in expression.
 
 Format and Quality: WAV files sampled at 16 kHz for consistent clarity.
+
+
+#### for better understanding plz refer to the project report (voice_emotion_detection_report.pdf)
