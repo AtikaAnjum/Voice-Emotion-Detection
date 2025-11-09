@@ -4,17 +4,17 @@
 
 The emotion classifier uses a hybrid neural network architecture combining:
 
-#####Convolutional Neural Networks (CNNs): Capture local spectral patterns from features like MFCCs.
+##### Convolutional Neural Networks (CNNs): Capture local spectral patterns from features like MFCCs.
 
-#####Bidirectional Long Short-Term Memory (BiLSTM) networks: Learn temporal dependencies across time to understand long-term emotional dynamics.
+##### Bidirectional Long Short-Term Memory (BiLSTM) networks: Learn temporal dependencies across time to understand long-term emotional dynamics.
 
 This combination allows the model to interpret both short-term spectral changes and long-term emotion patterns in speech. The model is trained on a training set and evaluated on a testing set using standard metrics such as accuracy, precision, recall, and F1-score.
 
-##Dataset
+## Dataset
 
 I used the CREMA-D (Crowd-Sourced Emotional Multimodal Actors Dataset) for training and evaluation. CREMA-D is widely recognized for speech-based emotion recognition and provides diverse, high-quality audio samples.
 
-###Key Features of CREMA-D:
+### Key Features of CREMA-D:
 
 Emotion Diversity: Six emotional expressions — Angry, Disgust, Fear, Happy, Neutral, Sad.
 
